@@ -1,0 +1,24 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "authors": [
+    "Chk2 <chikin202@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "sweetalert": "~1.0.1",
+    "angular": "~1.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  }
+}
